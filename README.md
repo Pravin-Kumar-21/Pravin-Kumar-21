@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
-<h3 align="center">A passionate Coder & developer from India</h3>
+<h3 align="center">A Passionate Coder & Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <a href="https://twitter.com/pravin_2108" target="blank"><img src="https://img.shields.io/twitter/follow/pravin_2108?logo=twitter&style=for-the-badge" alt="pravin_2108" /></a> </p>
 
-- 🔭 I’m currently improving my ** Coding Skils **
+- 🔭 I’m currently improving my ** Coding Skills **
 
 - 🌱 I’m currently learning **Data Structure Algorithms**
 
