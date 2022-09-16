@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently improving my ** Coding Skills **
 
-- 🌱 I’m currently learning **Data Structure Algorithms**
+- 🌱 I’m currently learning ** Data Structure Algorithms **
 
-- 👯 I’m looking to collaborate on **...**
+- 🎯 2022 End Goals ** Mastering Data Structure & Algorithms **
 
 - 🤝 I’m looking for help with **....**
 
