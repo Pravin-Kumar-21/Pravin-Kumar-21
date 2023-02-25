@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** Data Structure Algorithms **
 
-- 🎯 2022 End Goals ** Mastering Data Structure & Algorithms **
+- 🎯 2023 End Goals ** Mastering Data Structure & Algorithms & Web Development **
 
 - 🤝 I’m looking for help with **....**
 
