@@ -1,5 +1,5 @@
-<link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap">
-<body style="font-family: 'Comfortaa', cursive;">
+<link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet">
+<p style="font-family: 'Comfortaa', cursive;">This text will use the Comfortaa font.</p>
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
 <h3 align="center">A Passionate Coder & Developer Based In India</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
