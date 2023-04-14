@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap">
 <body style="font-family: 'Comfortaa', cursive;">
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
 <h3 align="center">A Passionate Coder & Developer Based In India</h3>
