@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
 <h3 align="center">A Passionate Coder & Developer Based In India</h3>
-<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img align="Center" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravin-kumar-21" alt="pravin-kumar-21" /></a> </p>
 <h3 align="left">Connect with me:</h3>
