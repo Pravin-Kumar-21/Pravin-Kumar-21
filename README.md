@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravin-kumar-21&show_icons=true&locale=en&layout=compact" alt="pravin-kumar-21" /></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravin-kumar-21&show_icons=true&locale=en" alt="pravin-kumar-21" /></p><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-kumar-21&" alt="pravin-kumar-21" /></p><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pravin-kumar-21&show_icons=true&locale=en" alt="pravin-kumar-21" /></p><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-kumar-21&" alt="pravin-kumar-21" /></p><br>
 <p align="left"> <a href="https://twitter.com/pravin_2108" target="blank"><img src="https://img.shields.io/twitter/follow/pravin_2108?logo=twitter&style=for-the-badge" alt="pravin_2108" /></a> </p><br>
 
 - 🔭 I’m currently improving my ** Coding Skills **
