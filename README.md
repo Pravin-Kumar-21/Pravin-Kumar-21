@@ -3,23 +3,18 @@
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 <p align="left"> <a href="https://twitter.com/pravin_2108" target="blank"><img src="https://img.shields.io/twitter/follow/pravin_2108?logo=twitter&style=for-the-badge" alt="pravin_2108" /></a></p><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /></p><br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Github Stat's</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravin-kumar-21&show_icons=true&locale=en&layout=compact" alt="pravin-kumar-21" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pravin-kumar-21&show_icons=true&locale=en" alt="pravin-kumar-21" /></p><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-kumar-21&" alt="pravin-kumar-21" /></p><br>
-
-- 🔭 I’m currently improving my ** Coding Skills **
-
-- 🌱 I’m currently learning ** Data Structure Algorithms **
-
-- 🤝 I’m looking for help with **....**
-
-- 💬 Ask me about **Coding & Logic Implementation**
-
-- 📫 How to reach me **pravinkumar2108@gmail.com**
-
-- ⚡ Fun fact ** **
-
+<p align="left">
+<h4>- 🔭 I’m currently improving my ** Coding Skills **</h4><br>
+<h4>- 🌱 I’m currently learning ** Data Structure Algorithms **</h4><br>
+<h4>- 🤝 I’m looking for help with **....**</h4><br>
+<h4>- 💬 Ask me about **Coding & Logic Implementation**</h4><br>
+<h4>- 📫 How to reach me **pravinkumar2108@gmail.com**</h4><br>
+<h4>- ⚡ Fun fact ** **</h4>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pravin_2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravin_2108" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
