@@ -1,4 +1,3 @@
-![Logo](https://github.com/Pravin-Kumar-21/Pravin-Kumar-21/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
 <h3 align="center">A Passionate Coder & Developer Based India</h3>
 
