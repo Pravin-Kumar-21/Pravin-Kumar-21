@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
-<h3 align="center">A Passionate Coder & Developer Based India</h3>
+<h1 align="center">Hi 👋, I'm Pravin Kumar </h1>
+<h3 align="center">A Passionate Coder & Developer Based in India 🇮🇳 </h3>
 
 
 - 🔭 I’m currently working on **Full Stack Project**
