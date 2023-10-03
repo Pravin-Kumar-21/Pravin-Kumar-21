@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar </h1>
 <h3 align="center">A Passionate Coder & Developer Based in India 🇮🇳 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=Pravin-Kumar-21&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)[![](https://visitcount.itsvg.in/api?id=Pravin-Kumar-21&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 - 🔭 I’m currently working on **Full Stack Project**
 
 - 🌱 I’m currently learning **Data Structure Algorithm**
