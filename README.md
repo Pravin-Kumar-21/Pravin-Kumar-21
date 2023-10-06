@@ -1,6 +1,6 @@
 <img src="https://github.com/Pravin-Kumar-21/Pravin-Kumar-21/blob/main/Github_Banner.png" width ="1366" height="260">
-<h1 align="center">Hi 👋, I'm Pravin Kumar </h1>
-<h3 align="center">A Passionate Coder & Developer Based in India 🇮🇳 </h3>
+<h1 align="center" width="60" height="80">Hi 👋, I'm Pravin Kumar </h1>
+<h3 align="center">A Self-taught Developer Based in India 🇮🇳 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Project**
