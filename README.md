@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
+- 2X &nbsp; <strong>HacktoberFest Contributer 22,23<strong>
+
 - 🌱 I’m currently learning **Data Structure Algorithm**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
