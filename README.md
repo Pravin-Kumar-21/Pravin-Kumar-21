@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **pravinkumar2108@gmail.com**
 
+  <h2>Badges🏅🏅</h2>
+
+[![An image of @pravin_2108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin_2108)](https://holopin.io/@pravin_2108)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@pravin_2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@pravin_2108" height="30" width="40" /></a>&nbsp;
