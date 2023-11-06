@@ -14,7 +14,7 @@
 - 💬 Ask me about **C++, C, Python, Django, Figma, HTML, CSS**
 
 - 📫 How to reach me **pravinkumar2108@gmail.com**
-- [![An image of @pravin_2108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin_2108)](https://holopin.io/@pravin_2108)
+ [![An image of @pravin_2108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin_2108)](https://holopin.io/@pravin_2108)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
