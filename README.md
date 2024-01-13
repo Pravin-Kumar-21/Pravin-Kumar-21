@@ -3,7 +3,9 @@
 <h3 align="center">A Self-taught Developer Based in India 🇮🇳 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Project**
+- 🔭 I’m currently working on **Django Rest Framework Project**
+
+- 🎯 2023 Goal Achieved Completed A Full Stack Project
 
 - 2X &nbsp; <strong>HacktoberFest Contributer 22,23<strong>
 
