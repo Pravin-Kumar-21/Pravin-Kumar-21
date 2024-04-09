@@ -13,7 +13,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **C++, C, Python, Django, Figma, HTML, CSS**
+- 💬 Ask me about **C++, C, Python, Django, Django Rest Framework, Figma,
+                    HTML, CSS, TailwindCSS, MySQL, PostgresSQL, Linux, Git**
 
 - 📫 How to reach me **pravinkumar2108@gmail.com**
  [![An image of @pravin_2108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin_2108)](https://holopin.io/@pravin_2108)
