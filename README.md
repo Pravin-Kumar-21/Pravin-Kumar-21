@@ -6,9 +6,10 @@
 - 🔭 I’m currently working on **Django RestFramework + React Full Stack Project**
 
 - 🎯 2024 Bucket List 
-      1. Completed Django Rest Framework Project
 
-- 🎯 2023 Goal Achieved Completed A Full Stack Project
+  -       I. Completed Django Rest Framework Project ✅
+
+- 🎯 2023 Goal Achieved Completed A Full Stack Project ✅
 
 - 2X &nbsp; <strong>HacktoberFest Contributer 22,23<strong>
 
