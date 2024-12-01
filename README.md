@@ -1,15 +1,24 @@
 <img src="https://github.com/Pravin-Kumar-21/Pravin-Kumar-21/blob/main/Github_Banner.png" width ="1366" height="260">
 <h1 align="center" width="60" height="80">Hi 👋, I'm Pravin Kumar </h1>
-<h3 align="center">A Self-taught Developer Based in India 🇮🇳 </h3>
+<h3 align="center">Full Stack Developer Based in India 🇮🇳 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
+
+- 🔭 I’m currently an intern at **Luein Analytics , Startup Company Building Product as Python Django Developer**
 
 - 🔭 I’m currently working on **Django RestFramework + React Full Stack Project**
 
+- My Coding Journey So Far 💪 ....
+
 - 🎯 2024 Bucket List 
 
-  -       I. Completed Django Rest Framework Project ✅
+  -       I.   Completed Django Rest Framework Project ✅
+  -       II.  Completed 1st Internship as a React Developer [3 months] ✅
+  -       III. Secured my 2nd Internship as Python Django Developer,  at a Product Building Startup [6 months] ✅
 
-- 🎯 2023 Goal Achieved Completed A Full Stack Project ✅
+- 🎯 2023 Bucket List
+
+  -     I.  Completed A Full Stack Project ✅
+  -     II. Completed a Freelance Project For a School Website ✅
 
 - 2X &nbsp; <strong>HacktoberFest Contributer 22,23<strong>
 
