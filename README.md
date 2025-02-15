@@ -3,17 +3,17 @@
 <h3 align="center">Full Stack Developer Based in India 🇮🇳 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
 
-- 🔭 I’m currently an intern at **Luein Analytics , Startup Company Building Product as Python Django Developer**
+- 🔭 I’m currently working on a FullStack Application 
 
-- 🔭 I’m currently working on **Django RestFramework + React Full Stack Project**
+- 🔭 I’m currently working on my Personal Portfolio
 
 - My Coding Journey So Far 💪 ....
 
 - 🎯 2024 Bucket List 
 
   -       I.   Completed Django Rest Framework Project ✅
-  -       II.  Completed 1st Internship as a React Developer [3 months] ✅
-  -       III. Secured my 2nd Internship as Python Django Developer,  at a Product Building Startup [6 months] ✅
+  -       II.  Completed 1st Internship as a React Developer ✅
+  -       III. Completed my 2nd Internship as Python Django Developer,  at a Product Building Startup  ✅
 
 - 🎯 2023 Bucket List
 
