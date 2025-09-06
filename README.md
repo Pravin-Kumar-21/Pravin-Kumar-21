@@ -3,9 +3,12 @@
 <h3 align="center">Full Stack Developer Based in India 🇮🇳 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin-kumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="pravin-kumar-21" /> </p>
 
+ - <p>
+     <a href="https://www.pravinkumardev.site"><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/fbcdf2dc-80a4-4b1d-ad0a-ad064380e385" /> View My Portfolio </a> 
+  </p>
+
 - 🔭 I’m currently working on a FullStack Application 
 
-- 🔭 I’m currently working on my Personal Portfolio
 
 - My Coding Journey So Far 💪 ....
 
