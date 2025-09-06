@@ -25,8 +25,6 @@
 
 - 2X &nbsp; <strong>HacktoberFest Contributer 22,23<strong>
 
-- 🌱 I’m currently learning **Data Structure Algorithm**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **C++, C, Python, Django, Django Rest Framework, Javascript, React, Figma,
